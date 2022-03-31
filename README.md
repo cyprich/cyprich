@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cypo808
+- 👋 Hi, I’m @yungcypo
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m not looking to collaborate on anything
+- 💞️ Feel free to email me to collaborate on anything
 - 📫 How to reach me - cypooriginal@gmail.com
 
 <!---
