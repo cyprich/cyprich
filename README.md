@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m not looking to collaborate on anything
-- 📫 Feel free to hmu
+- 📫 How to reach me - cypooriginal@gmail.com
 
 <!---
 cypo808/cypo808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
