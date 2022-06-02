@@ -2,13 +2,14 @@
 - 👋 Hi, I’m **@yungcypo**
 - 🌍 I'm from Prievidza, Slovakia
 - 👶 I was born in 2003
-- 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in Python and C++ 
 - 💞️ Feel free to email me to collaborate on anything
 - 📫 How to reach me - cypooriginal@gmail.com
+<!---🌱 I’m currently learning Python and C++ --->
 
 [![gmail](https://badgen.net/badge/Gmail/cypoooriginal@gmail.com/EA4335)](cypooriginal@gmail.com)  
 [![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
+[![discord](https://badgen.net/badge/Discord/Cypo9202/7289DA)](https://www.discord.com/users/587622652831596545)  
 [![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
 
 <!---
