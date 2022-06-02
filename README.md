@@ -8,11 +8,12 @@
 - 📫 How to reach me - cypooriginal@gmail.com
 
 [![gmail](https://badgen.net/badge/Gmail/cypoooriginal@gmail.com/EA4335)](cypooriginal@gmail.com)  
+[![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
+[![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
+
 <!---
 [![instagram](https://badgen.net/badge/Instagram/@pterodaktyl123/E1306C)](https://www.instagram.com/pterodaktyl123/)  
 --->
-[![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
-[![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
 
 <!--- 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pterodaktyl123/)  
