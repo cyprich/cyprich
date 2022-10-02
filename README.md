@@ -2,10 +2,12 @@
 - 👋 Hi, I’m **@yungcypo**
 - 🌍 I'm from Prievidza, Slovakia
 - 👶 I was born in 2003
-- 👀 I’m interested in Python and C++ 
+- 👀 I’m interested in Python and a bit in C++ 
 - 💞️ Feel free to email me to collaborate on anything
 - 📫 How to reach me - cypooriginal@gmail.com
 <!---🌱 I’m currently learning Python and C++ --->
+
+:camel:
 
 [![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
 [![discord](https://badgen.net/badge/Discord/Cypo9202/7289DA)](https://www.discord.com/users/587622652831596545)  
@@ -28,4 +30,4 @@
 cypo808/cypo808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-:camel:
+
