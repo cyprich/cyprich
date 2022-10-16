@@ -2,7 +2,7 @@
 - 👋 Hi, I’m **@yungcypo**
 - 🌍 I'm from Prievidza, Slovakia
 - 👶 I was born in 2003
-- 👀 I’m interested in Python and a bit in C++ 
+- 👀 I’m interested in Python and a bit in HTML and C++ 
 - 💞️ Feel free to email me to collaborate on anything
 - 📫 How to reach me - cypooriginal@gmail.com
 <!---🌱 I’m currently learning Python and C++ --->
