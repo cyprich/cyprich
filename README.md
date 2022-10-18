@@ -7,7 +7,8 @@
 - 📫 How to reach me - cypooriginal@gmail.com
 <!---🌱 I’m currently learning Python and C++ --->
 
-:camel:
+:camel:  
+*"Trash, but kinda works"*
 
 [![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
 [![discord](https://badgen.net/badge/Discord/Cypo9202/7289DA)](https://www.discord.com/users/587622652831596545)  
