@@ -2,6 +2,7 @@
 - 👋 Hi, I’m **@yungcypo**
 - 🌍 I'm from Prievidza, Slovakia
 - 👶 I was born in 2003
+- 💻 Programming since February 2021
 - 📗 Python - intermediate level
 - 📙 HTML, CSS and JavaScript - beginner level
 - 💞️ Feel free to email me to collaborate on anything
