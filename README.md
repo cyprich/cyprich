@@ -7,7 +7,7 @@
 - 📙 HTML, CSS and JavaScript - beginner level
 - 💞️ Feel free to email me to collaborate on anything
 - 📫 How to reach me - cypooriginal@gmail.com
-<!---🌱 I’m currently learning Python and C++ --->
+<!---🌱 I’m currently learning Python and JavaScript --->
 
 :camel:  
 *"Trash, but kinda works"*
