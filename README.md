@@ -11,7 +11,7 @@
 <!---🌱 I’m currently learning Python and JavaScript --->
 
 :camel:  
-*"Trash, but kinda works"*
+*"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*
 
 [![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
 [![discord](https://badgen.net/badge/Discord/Cypo9202/7289DA)](https://www.discord.com/users/587622652831596545)  
