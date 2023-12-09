@@ -13,6 +13,8 @@
 :camel:  
 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yungcypo)](https://github.com/anuraghazra/github-readme-stats)
+
 [![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
 [![discord](https://badgen.net/badge/Discord/Cypo9202/7289DA)](https://www.discord.com/users/587622652831596545)  
 [![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
