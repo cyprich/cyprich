@@ -13,6 +13,7 @@
 :camel:  
 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungcypo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yungcypo&layout=compact)
 
 [![spotify](https://badgen.net/badge/Spotify/Peťo/1DB954)](https://open.spotify.com/user/xn9rkbs3e9rk83nbnyrtjcpab)  
