@@ -4,7 +4,7 @@
 - 👶 I was born in 2003
 - 💻 Programming since February 2021
 - 📗 Python - intermediate level
-- 📙 HTML, CSS, JavaScript and React - intermediate level
+- 📙 HTML, CSS, React, Tailwind - intermediate level
 - 📘 Java - beginner level
 - 💞️ Feel free to email me to collaborate on anything
 - 📫 How to reach me - cypooriginal@gmail.com
