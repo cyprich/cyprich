@@ -10,8 +10,8 @@
 - 📫 How to reach me - cypooriginal@gmail.com
 <!---🌱 I’m currently learning Python and JavaScript --->
 
-:camel:  
 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*
+:camel:  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yungcypo&layout=compact&theme=github_dark)
 
