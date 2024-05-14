@@ -1,4 +1,5 @@
 # Hi, I’m @yungcypo
+[![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
 👶🏻 Born in 2003  
 🌍 Living in Prievidza, Slovakia  
 🎓 Currently studying Information and Network Technologies at University of Žilina  
@@ -21,6 +22,8 @@
 |-|-|
 | Instagram | [@bordel.pruser.margarin](https://www.instagram.com/bordel.pruser.margarin/) |
 
+<img src="fldsmdfr.webp" style="width: 40%">
+
+
 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*  
  
-[![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
