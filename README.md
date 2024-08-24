@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yungcypo&layout=compact&theme=github_dark)  
 
 Born to be [Python 🐍](https://github.com/yungcypo?tab=repositories&q=&language=python) developer, forced to program in [Java ♨️](https://github.com/yungcypo?tab=repositories&q=&language=java)  
-Tried [Web Development 🌐](https://github.com/yungcypo/yungcypo.github.io), decided to switch to [C++ 🖥️](https://github.com/yungcypo?tab=repositories&q=&language=c%2B%2B)  
+Tried [C++ 🖥️](https://github.com/yungcypo?tab=repositories&q=&language=c%2B%2B), decided to switch to [Web Development 🌐](https://github.com/yungcypo/yungcypo.github.io)  
 
 ## Interests
 🖨️ 3D Printing & [Modelling](https://www.printables.com/@cypo)  
