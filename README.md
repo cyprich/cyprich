@@ -1,4 +1,4 @@
-# Hi, I’m @yungcypo
+# Hi, I’m @cyprich 
 [![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
 👶🏻 Born in 2003  
 🌍 Living in Prievidza, Slovakia  
@@ -6,10 +6,10 @@
 📖 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*  
 
 ## Programming
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yungcypo&layout=compact&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cyprich&layout=compact&theme=github_dark)  
 
-Born to be [Python 🐍](https://github.com/yungcypo?tab=repositories&q=&language=python) developer, forced to program in [Java ♨️](https://github.com/yungcypo?tab=repositories&q=&language=java)  
-Tried [C++ 🖥️](https://github.com/yungcypo?tab=repositories&q=&language=c%2B%2B), decided to switch to [Web Development 🌐](https://github.com/yungcypo/yungcypo.github.io)  
+Born to be [Python 🐍](https://github.com/cyprich?tab=repositories&q=&language=python) developer, forced to program in [Java ♨️](https://github.com/cyprich?tab=repositories&q=&language=java)  
+Tried [C++ 🖥️](https://github.com/cyprich?tab=repositories&q=&language=c%2B%2B), decided to switch to [Web Development 🌐](https://github.com/cyprich/cyprich.github.io)  
 
 ## Interests
 🖨️ 3D Printing & [Modelling](https://www.printables.com/@cypo)  
