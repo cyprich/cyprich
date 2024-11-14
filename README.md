@@ -6,7 +6,7 @@
 📖 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*  
 
 ## Programming
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cyprich&layout=compact&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprich&hide_progress=false&theme=github_dark&layout=compact)
 
 Born to be [Python 🐍](https://github.com/cyprich?tab=repositories&q=&language=python) developer, forced to program in [Java ♨️](https://github.com/cyprich?tab=repositories&q=&language=java)  
 Tried [C++ 🖥️](https://github.com/cyprich?tab=repositories&q=&language=c%2B%2B), decided to switch to [Web Development 🌐](https://github.com/cyprich/cyprich.github.io)  
