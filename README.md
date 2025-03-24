@@ -16,7 +16,7 @@
 💾 SQL  
 🐧 Bash  
 🪱 MicroPython  
-⬇️ Markdown  
+⬇️ Markdown + Jupyter & Polyglot Notebooks  
 
 <!--
 <img src="fldsmdfr.webp" style="width: 50%">
