@@ -15,8 +15,8 @@
 ♨️ Java  
 💾 SQL  
 🐧 Bash  
-🪱 MicroPython
-⬇️ Markdown
+🪱 MicroPython  
+⬇️ Markdown  
 
 <img src="fldsmdfr.webp" style="width: 50%">
 
