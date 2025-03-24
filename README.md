@@ -3,7 +3,7 @@
 👶🏻 Born in 2003  
 🌍 Living in Prievidza, Slovakia  
 🎓 Studying Information and Network Technologies at University of Žilina  
-📖 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*  
+📖 *"When I wrote this code, only god and I knew how it worked. Now, only god knows it!"*  
 
 ## Coding
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprich&theme=github_dark&layout=compact&hide_progress=false)
@@ -24,6 +24,7 @@
 
 ## Interests
 🌐 Networking  
+⚡ Electronics  
 🖨️ 3D Printing & [Modelling](https://www.printables.com/@cypo)  
 🛹 Skateboarding  
 ⛸️ Skating  
