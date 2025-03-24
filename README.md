@@ -8,12 +8,20 @@
 ## Programming
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprich&theme=github_dark&layout=compact&hide_progress=false)
 
-Born to be [Python 🐍](https://github.com/cyprich?tab=repositories&q=&language=python) developer, forced to program in [Java ♨️](https://github.com/cyprich?tab=repositories&q=&language=java)  
-Tried [Web Development 🌐](https://github.com/cyprich/cyprich.github.io), decided to switch to [C++ 🖥️](https://github.com/cyprich?tab=repositories&q=&language=c%2B%2B)  
+🐍 Python  
+🖥️ C++  
+🌐 HTML + CSS & Tailwind CSS + JavaScript & React  
+🎻 C# & .NET  
+♨️ Java  
+💾 SQL  
+🐧 Bash  
+🪱 MicroPython
+⬇️ Markdown
 
 <img src="fldsmdfr.webp" style="width: 50%">
 
 ## Interests
+🌐 Networking  
 🖨️ 3D Printing & [Modelling](https://www.printables.com/@cypo)  
 🛹 Skateboarding  
 ⛸️ Skating  
