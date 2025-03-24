@@ -18,7 +18,9 @@
 🪱 MicroPython  
 ⬇️ Markdown  
 
+<!--
 <img src="fldsmdfr.webp" style="width: 50%">
+-->
 
 ## Interests
 🌐 Networking  
