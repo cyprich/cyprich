@@ -5,7 +5,7 @@
 🎓 Studying Information and Network Technologies at University of Žilina  
 📖 *"When I wrote this code, only god and I knew how it worked. Now only god knows it!"*  
 
-## Programming
+## Coding
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprich&theme=github_dark&layout=compact&hide_progress=false)
 
 🐍 Python  
