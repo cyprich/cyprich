@@ -1,35 +1,58 @@
-# Hi, I’m @cyprich 
-[![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
-👶🏻 Born in 2003  
-🌍 Living in Prievidza, Slovakia  
-🎓 Studying Information and Network Technologies at University of Žilina  
-📖 *"When I wrote this code, only god and I knew how it worked. Now, only god knows it!"*  
+# 👋 Hi there, I’m @cyprich 
 
-## Coding
+[![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
+
+🎓 Studying Information and Network Technologies at University of Žilina  
+🕐 Started coding in February 2020  
+💻 Passionate about Linux, programming, 3D printing and building useful tools  
+🌍 Living in Prievidza, Slovakia  
+
+<!--
+## 🚀 Projects
+- **[Filamenty](https://github.com/cyprich/filamenty)**  
+  - 3D printing filament management web app  
+  - Flask + React/Tailwind CSS + SQLite
+  - Docker deployment ready
+- **[Filamenty Desktop](https://github.com/cyprich/filamenty-desktop)**
+  - Rewrite of *filamenty*
+  - C# cross-platform desktop app
+  - Avalonia UI
+  - PostgreSQL + SQLite
+- **[Plants vs. Zombies](https://github.com/cyprich/Plants-vs-Zombies)**
+  - Semester project for the *Informatics 2* course
+  - Java
+-->
+
+## 🛠️ Tech & Tools I use
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprich&theme=github_dark&layout=compact&hide_progress=false)
 
-🐍 Python  
-🖥️ C++  
-🌐 HTML + CSS & Tailwind CSS + JavaScript & React  
-🎻 C# & .NET  
-♨️ Java  
-💾 SQL  
-🐧 Bash  
-🪱 MicroPython  
-⬇️ Markdown + Jupyter & Polyglot Notebooks  
+- **Languages**: Python, Rust, C++, C#, Java, Bash  
+- **Frameworks**: Avalonia, Flask, React, Tailwind CSS  
+- **Databases**: PostgreSQL, SQLite, Oracle  
+- **Dev tools**: Neovim, Docker
+- **Embedded**/**IoT**: ESP32, Arduino, Raspberry Pi, MicroPython  
 
 <!--
 <img src="fldsmdfr.webp" style="width: 50%">
 -->
 
-## Interests
-🌐 Networking  
-⚡ Electronics  
-🖨️ 3D Printing & [Modelling](https://www.printables.com/@cypo)  
-🛹 Skateboarding  
-⛸️ Skating  
+## 📜 Courses & Certifications
+- Cisco Certified Network Associate (CCNA)
+- NDG Linux Essentials
+- Certified Entry-Level Python Programmer 1 & 2 (PCEP)
+- AWS Academy Cloud Foundations (in progress 🚧)
 
-## Feel free to contact me  
-| E-Mail | [cypooriginal@gmail.com](mailto:cypooriginal@gmail.com) |
-|-|-|
-| Instagram | [@bordel.pruser.margarin](https://www.instagram.com/bordel.pruser.margarin/) |
+## 🌱 Fun Facts
+
+- I run my own home server for Minecraft, Web apps and bunch of other self-hosted apps 
+- Started coding in February 2020 
+
+## 📫 Contact
+
+- **E-Mail**: [cypooriginal@gmail.com](mailto:cypooriginal@gmail.com) 
+- **Instagram**: [@bordel.pruser.margarin](https://www.instagram.com/bordel.pruser.margarin/)
+
+---
+
+📖 *"I don't care what anyone thinks of me. Except dogs. I want dogs to like me."* 
