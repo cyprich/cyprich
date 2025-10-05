@@ -3,7 +3,6 @@
 [![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3.svg)](https://wakatime.com/@4c514061-8f41-4da2-97ea-f2b4906774a3)  
 
 🎓 Studying Information and Network Technologies at University of Žilina  
-🕐 Started coding in February 2020  
 💻 Passionate about Linux, programming, 3D printing and building useful tools  
 🌍 Living in Prievidza, Slovakia  
 
@@ -39,9 +38,13 @@
 
 ## 📜 Courses & Certifications
 - Cisco Certified Network Associate (CCNA)
+  - CCNA 1 - Introduction to Networks
+  - CCNA 2 - Switching, Routing and Wireless Essentials
+  - CCNA 3 - Enterprise Networking, Security and Automation 
 - NDG Linux Essentials
 - Certified Entry-Level Python Programmer 1 & 2 (PCEP)
 - AWS Academy Cloud Foundations (in progress 🚧)
+- Cisco DevNet Associate (in progress 🚧)
 
 ## 🌱 Fun Facts
 
