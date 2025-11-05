@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech & Tools I use
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprich&theme=github_dark&layout=compact&hide_progress=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprich&theme=github_dark&layout=donut&hide_progress=false&size_weight=0.5&count_weight=0.5)
 
 - **Languages**: Python, Rust, C++, C#, Java, Bash  
 - **Frameworks**: Avalonia, Flask, React, Tailwind CSS  
