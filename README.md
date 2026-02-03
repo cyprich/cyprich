@@ -14,7 +14,7 @@
 - **Frameworks**: Actix Web · Flask · React · Tailwind CSS
 - **Databases**: PostgreSQL · SQLite · Oracle
 - **Embedded**/**IoT**: ESP32 · Arduino · Raspberry Pi · MicroPython
-- **Dev tools**: Git Github Docker Docker Compose Mardown
+- **Other tools**: Git · GitHub · Docker · Docker Compose · Markdown
 
 ## 📜 Courses & Certifications
 
@@ -28,15 +28,16 @@
 - Cisco DevNet Associate
 
 <span>
-  <img src="./badges/ccna-enterprise-networking-security-and-automation.png" style="width: 150px; height: auto">  
-  <img src="./badges/python-essentials-1-badge.png" style="width: 150px; height: auto">  
-  <img src="./badges/python-essentials-2-badge.png" style="width: 150px; height: auto">  
-  <img src="./badges/aws-cloud-foundations.png" style="width: 150px; height: auto">  
+  <img src="./badges/ccna-enterprise-networking-security-and-automation.png" style="width: 120px; height: auto">  
+  <img src="./badges/python-essentials-1-badge.png" style="width: 120px; height: auto">  
+  <img src="./badges/python-essentials-2-badge.png" style="width: 120px; height: auto">  
+  <img src="./badges/aws-cloud-foundations.png" style="width: 120px; height: auto">  
 </span>
 
 ## 🌱 Fun Facts
 
-- I run my own home server for Minecraft, Web apps and bunch of other self-hosted apps
+- I run my own home server for Minecraft, Web apps and bunch of other self-hosted stuff
+- Fluent in Linux, prefers command-line over GUI for most things
 - Started coding in February 2020
 
 ## 📫 Contact
