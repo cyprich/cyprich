@@ -24,8 +24,8 @@
   - CCNA 3 - Enterprise Networking, Security and Automation
 - NDG Linux Essentials
 - Certified Entry-Level Python Programmer 1 & 2 (PCEP)
-- AWS Academy Cloud Foundations (in progress 🚧)
-- Cisco DevNet Associate (in progress 🚧)
+- AWS Academy Cloud Foundations
+- Cisco DevNet Associate
 
 <span>
   <img src="./badges/ccna-enterprise-networking-security-and-automation.png" style="width: 150px; height: auto">  
