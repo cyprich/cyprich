@@ -31,6 +31,7 @@
   <img src="./badges/ccna-enterprise-networking-security-and-automation.png" style="width: 120px; height: auto">  
   <img src="./badges/python-essentials-1-badge.png" style="width: 120px; height: auto">  
   <img src="./badges/python-essentials-2-badge.png" style="width: 120px; height: auto">  
+  <img src="./badges/devnet-associate.png" style="width: 120px; height: auto">  
   <img src="./badges/aws-cloud-foundations.png" style="width: 120px; height: auto">  
 </span>
 
